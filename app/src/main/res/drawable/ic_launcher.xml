@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    
+    <!-- Background Rounded Square -->
+    <path
+        android:fillColor="#0D3B2E"
+        android:pathData="M16,8h64a8,8 0 0,1 8,8v64a8,8 0 0,1 -8,8H16a8,8 0 0,1 -8,-8V16a8,8 0 0,1 8,-8z" />
+
+    <!-- Gold Temple / Pillar Symbol -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M30,72h36v6H30z M34,64h28v6H34z M38,28h20v34H38z M36,22h24v4H36z M45,14h6v8h-6z M26,78h44v4H26z" />
+</vector>

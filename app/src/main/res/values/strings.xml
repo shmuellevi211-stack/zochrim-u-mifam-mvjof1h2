@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">זוכרים ומצפים</string>
+    <string name="days_without_temple">ימים ללא בית המקדש</string>
+    <string name="manage_counters">ניהול מונים</string>
+    <string name="quotes_library">מאגר משפטים</string>
+    <string name="settings">הגדרות</string>
+    <string name="add_counter">הוסף מונה חדש</string>
+    <string name="counter_name">שם המונה</string>
+    <string name="start_date">תאריך התחלה (YYYY-MM-DD)</string>
+    <string name="save">שמור</string>
+    <string name="cancel">ביטול</string>
+    <string name="delete">מחק</string>
+    <string name="edit">ערוך</string>
+    <string name="reset">איפוס</string>
+    <string name="theme_dark_gold">שחור וזהב (יוקרתי)</string>
+    <string name="theme_traditional">ירוק כהה וזהב (מסורתי)</string>
+    <string name="theme_light">תכלת ולבן (בהיר)</string>
+    <string name="theme_minimal">מינימליסטי</string>
+    <string name="select_theme">בחר ערכת עיצוב</string>
+    <string name="select_quote">בחר משפט השראה</string>
+    <string name="category_all">הכל</string>
+    <string name="category_longing">געגוע לירושלים</string>
+    <string name="category_prayer">תפילה לבניין הבית</string>
+    <string name="category_building">בניין ירושלים</string>
+    <string name="category_destruction">זיכרון החורבן</string>
+    <string name="historical_counter_default">חורבן בית המקדש (על פי המסורת)</string>
+    <string name="error_invalid_date">תאריך לא תקין. השתמש בפורמט YYYY-MM-DD</string>
+    <string name="error_empty_name">נא להזין שם מונה</string>
+    <string name="offline_mode_active">פועל במצב לא מקומל לחלוטין</string>
+</resources>
