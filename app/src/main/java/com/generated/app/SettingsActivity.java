@@ -36,8 +36,7 @@ public class SettingsActivity extends Activity {
             @Override
             public void onClick(View v) {
                 prefs.edit().putString("theme", "traditional").apply();
-                Toast.InstanceState = Toast.makeText(SettingsActivity.this, "העיצוב נשמר", Toast.LENGTH_SHORT);
-                Toast.InstanceState.show();
+                Toast.makeText(SettingsActivity.this, "העיצוב נשמר", Toast.LENGTH_SHORT).show();
                 finish();
             }
         });
